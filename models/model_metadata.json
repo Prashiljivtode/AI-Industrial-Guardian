@@ -1,0 +1,15 @@
+{
+  "model": "Random Forest",
+  "features": [
+    "temp",
+    "vibration",
+    "pressure"
+  ],
+  "training_records": 2400,
+  "validation_records": 480,
+  "accuracy": 0.9166666666666666,
+  "precision": 0.23809523809523808,
+  "recall": 0.1724137931034483,
+  "f1": 0.2,
+  "trained_at": "2026-09-06T12:48:30+00:00"
+}

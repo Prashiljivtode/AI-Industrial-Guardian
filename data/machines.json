@@ -1,0 +1,65 @@
+[
+  {
+    "machine_id": "M1",
+    "temp": 90.0,
+    "vibration": 1.2,
+    "pressure": 45.0,
+    "machine_type": "CNC Motor"
+  },
+  {
+    "machine_id": "M2",
+    "temp": 61.0,
+    "vibration": 0.22,
+    "pressure": 30.0,
+    "machine_type": "Pump"
+  },
+  {
+    "machine_id": "M3",
+    "temp": 86.0,
+    "vibration": 0.95,
+    "pressure": 42.0,
+    "machine_type": "Compressor"
+  },
+  {
+    "machine_id": "M4",
+    "temp": 55.0,
+    "vibration": 0.15,
+    "pressure": 27.0,
+    "machine_type": "Conveyor"
+  },
+  {
+    "machine_id": "M5",
+    "temp": 96.0,
+    "vibration": 1.3,
+    "pressure": 47.0,
+    "machine_type": "Industrial Motor"
+  },
+  {
+    "machine_id": "M6",
+    "temp": 68.0,
+    "vibration": 0.38,
+    "pressure": 31.0,
+    "machine_type": "Pump"
+  },
+  {
+    "machine_id": "M7",
+    "temp": 78.0,
+    "vibration": 0.65,
+    "pressure": 37.0,
+    "machine_type": "Turbine"
+  },
+  {
+    "machine_id": "M8",
+    "temp": 58.0,
+    "vibration": 0.2,
+    "pressure": 29.0,
+    "machine_type": "Conveyor"
+  },
+  {
+    "machine_id": "M9",
+    "machine_type": "Industrial Motor",
+    "temp": 72.5,
+    "vibration": 0.45,
+    "pressure": 32.1
+  }
+]
